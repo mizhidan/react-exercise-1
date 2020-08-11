@@ -3,7 +3,7 @@ import './aboutme.css';
 
 const AboutmeInfo = () => (
   <div className="aboutme">
-    <h3>ABOUT ME</h3>
+    <h1>ABOUT ME</h1>
     <p>
       Lorem ipsum dolor sit amet,consectetur adipisicing
       elit.Repellendus,non,dolorem,cumque distinctio magni quam expedita velit

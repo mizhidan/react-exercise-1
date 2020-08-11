@@ -1,9 +1,4 @@
-.aboutme {
-  position: relative;
-  top: -75px;
-}
-
-.aboutme h3 {
+.aboutme h1 {
   margin: 20px;
   color: #ec7263;
 }

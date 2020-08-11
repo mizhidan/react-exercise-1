@@ -3,6 +3,7 @@ import './App.scss';
 import Avatar from './components/userinfo/avatar';
 import Introduce from './components/userinfo/introduce';
 import AboutmeInfo from './components/aboutme/aboutme';
+import Educations from './components/educations/educatioins';
 
 class App extends Component {
   render() {
@@ -11,6 +12,7 @@ class App extends Component {
         <Avatar />
         <Introduce />
         <AboutmeInfo />
+        <Educations />
       </main>
     );
   }
