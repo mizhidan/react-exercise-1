@@ -1,7 +1,7 @@
 .introduce {
   text-align: center;
   position: relative;
-  top: -125px;
+  top: -75px;
 }
 
 .introduce h1 {
@@ -10,4 +10,9 @@
 
 .introduce h2 {
   margin: 20px;
+}
+
+.hrline {
+  border: 0;
+  border-bottom: 4px solid #ededed;
 }

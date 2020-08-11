@@ -5,7 +5,7 @@ const Avatar = () => (
   <div className="avatardiv">
     <img
       // eslint-disable-next-line no-undef
-      src={require('../assets/avatar.jpg')}
+      src={require('../../assets/avatar.jpg')}
       alt="avatar"
       className="avatar"
     ></img>

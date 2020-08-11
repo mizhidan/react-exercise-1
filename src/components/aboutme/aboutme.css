@@ -1,0 +1,14 @@
+.aboutme {
+  position: relative;
+  top: -75px;
+}
+
+.aboutme h3 {
+  margin: 20px;
+  color: #ec7263;
+}
+
+.aboutme p {
+  margin: 20px;
+  font-size: 14px;
+}
