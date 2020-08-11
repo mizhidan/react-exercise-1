@@ -1,0 +1,13 @@
+.introduce {
+  text-align: center;
+  position: relative;
+  top: -125px;
+}
+
+.introduce h1 {
+  margin: 30px;
+}
+
+.introduce h2 {
+  margin: 20px;
+}
